@@ -1,4 +1,4 @@
-## Hi there 👋
+## Nihao there 👋
 
 <!--
 **bosung0902/bosung0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
